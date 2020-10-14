@@ -11,6 +11,8 @@
 		9FD7F323253634FE00B16546 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FD7F322253634FE00B16546 /* ContentView.swift */; };
 		9FD7F325253634FE00B16546 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FD7F324253634FE00B16546 /* Assets.xcassets */; };
 		9FD7F328253634FE00B16546 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FD7F327253634FE00B16546 /* Preview Assets.xcassets */; };
+		9FD7F3312536362A00B16546 /* LibraryContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FD7F3302536362A00B16546 /* LibraryContent.swift */; };
+		9FD7F334253636EC00B16546 /* CloseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FD7F333253636EC00B16546 /* CloseButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		9FD7F324253634FE00B16546 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9FD7F327253634FE00B16546 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9FD7F329253634FE00B16546 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9FD7F3302536362A00B16546 /* LibraryContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibraryContent.swift; sourceTree = "<group>"; };
+		9FD7F333253636EC00B16546 /* CloseButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloseButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				9FD7F320253634FE00B16546 /* CustomComponentsLibraryApp.swift */,
 				9FD7F322253634FE00B16546 /* ContentView.swift */,
+				9FD7F3302536362A00B16546 /* LibraryContent.swift */,
+				9FD7F333253636EC00B16546 /* CloseButton.swift */,
 				9FD7F324253634FE00B16546 /* Assets.xcassets */,
 				9FD7F329253634FE00B16546 /* Info.plist */,
 				9FD7F326253634FE00B16546 /* Preview Content */,
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				9FD7F323253634FE00B16546 /* ContentView.swift in Sources */,
+				9FD7F3312536362A00B16546 /* LibraryContent.swift in Sources */,
+				9FD7F334253636EC00B16546 /* CloseButton.swift in Sources */,
 				9FD7F321253634FE00B16546 /* CustomComponentsLibraryApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
